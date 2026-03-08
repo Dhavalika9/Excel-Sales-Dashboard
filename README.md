@@ -29,7 +29,5 @@ It showcases sales performance across regions, categories, months, and products.
 - Line / Bar / Column Charts  
 - Dashboard formatting & layout  
 
----
 
-## 🗂 Project Structure
 
